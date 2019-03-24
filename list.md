@@ -34,7 +34,7 @@ Selenium IDE: Flow Control
 Selenium IDE 官方资料  
 Selenium IDE 最权威的资料。如果英文网站打不开，请点击 这里。  
 
-Selenium IDE 官方资料翻译  
+Selenium IDE 官方资料翻译  [IDE](Features.md)
 欢迎大家参与翻译或矫正文字。  
 
 Selenium IDE 自动化脚本案例  
